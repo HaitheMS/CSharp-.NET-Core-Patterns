@@ -1,0 +1,16 @@
+O:\Learn Directories\Projets_cs\premier_programme\premier_programme\bin\Debug\net5.0\premier_programme.exe
+O:\Learn Directories\Projets_cs\premier_programme\premier_programme\bin\Debug\net5.0\premier_programme.deps.json
+O:\Learn Directories\Projets_cs\premier_programme\premier_programme\bin\Debug\net5.0\premier_programme.runtimeconfig.json
+O:\Learn Directories\Projets_cs\premier_programme\premier_programme\bin\Debug\net5.0\premier_programme.runtimeconfig.dev.json
+O:\Learn Directories\Projets_cs\premier_programme\premier_programme\bin\Debug\net5.0\premier_programme.dll
+O:\Learn Directories\Projets_cs\premier_programme\premier_programme\bin\Debug\net5.0\premier_programme.pdb
+O:\Learn Directories\Projets_cs\premier_programme\premier_programme\obj\Debug\net5.0\premier_programme.csproj.AssemblyReference.cache
+O:\Learn Directories\Projets_cs\premier_programme\premier_programme\obj\Debug\net5.0\premier_programme.GeneratedMSBuildEditorConfig.editorconfig
+O:\Learn Directories\Projets_cs\premier_programme\premier_programme\obj\Debug\net5.0\premier_programme.AssemblyInfoInputs.cache
+O:\Learn Directories\Projets_cs\premier_programme\premier_programme\obj\Debug\net5.0\premier_programme.AssemblyInfo.cs
+O:\Learn Directories\Projets_cs\premier_programme\premier_programme\obj\Debug\net5.0\premier_programme.csproj.CoreCompileInputs.cache
+O:\Learn Directories\Projets_cs\premier_programme\premier_programme\obj\Debug\net5.0\premier_programme.dll
+O:\Learn Directories\Projets_cs\premier_programme\premier_programme\obj\Debug\net5.0\refint\premier_programme.dll
+O:\Learn Directories\Projets_cs\premier_programme\premier_programme\obj\Debug\net5.0\premier_programme.pdb
+O:\Learn Directories\Projets_cs\premier_programme\premier_programme\obj\Debug\net5.0\premier_programme.genruntimeconfig.cache
+O:\Learn Directories\Projets_cs\premier_programme\premier_programme\obj\Debug\net5.0\ref\premier_programme.dll
